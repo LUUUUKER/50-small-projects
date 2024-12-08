@@ -1,2 +1,2 @@
 # frontend-small-projects
-for practive
+for practice
